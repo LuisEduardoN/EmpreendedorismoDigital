@@ -12,39 +12,47 @@ A ideia é que diante de um problema ambiental no bairro, os moradores acessem o
 ---
 
 ![Tela Inicial](/Telas/Inicial.png)
+
 Incialmente a primeira tela exibida no aplicativo seria uma exibição das comunidades mais próximas dos usuário.
 
 ---
 
 ![Tela Login](/Telas/Login.png)
+
 Caso o usuário queira fazer uma postagem ou interagir ele precisará entrar na conta dele.
 
 ---
 
 ![Tela Cadastro](/Telas/Cadastro.png)
+
 Caso o usuário não possua uma conta ele poderá fazer o cadastro após passar algumas informações essenciais.
 
 ---
 
 ![Tela Comunidade](/Telas/Comunidade.png)
+
 Ao clicar em uma comunidade o usuário verá as postagens mais recentes, assim como o número de pessoas ativas no momento e um botão de criar postagem.
 
 ---
 
 ![Tela Postagem](/Telas/Postagem.png)
+
 Ao clicar em uma postagem específica, o post irá se expandir revelando os comentários realizados.
 
 ---
 
 ![Tela Criar Postagem](/Telas/Criar_postagem.png)
+
 Para criar uma postagem em uma comunidade o usuário deverá informar o endereço espeficos, uma ou mais imagens do local e uma descrição do problema.
 
 ---
 
 ![Tela Favoritas](/Telas/Favoritas.png)
+
 Também será possível favoritar comunidades em que o usuário tenha interesse e ver elas em uma tela específica.
 
 ---
 
 ![Tela Perfil](/Telas/Perfil.png)
+
 Por fim, o usuário pode checar suas informações pessoais, postagens realizadas e as comunidades que ele participa na tela de perfil.
