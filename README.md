@@ -17,7 +17,7 @@ Para a obtenção de capital o plano original é após obter uma certa quantidad
 
 ![Tela Inicial](/Telas/Inicial.png)
 
-Incialmente a primeira tela exibida no aplicativo seria uma exibição das comunidades mais próximas dos usuário.
+Incialmente a primeira tela exibida no aplicativo seria uma exibição das comunidades mais próximas do usuário.
 
 ---
 
@@ -53,7 +53,7 @@ Para criar uma postagem em uma comunidade o usuário deverá informar o endereç
 
 ![Tela Favoritas](/Telas/Favoritas.png)
 
-Também será possível favoritar comunidades em que o usuário tenha interesse e ver elas em uma tela específica.
+Também será possível favoritar comunidades em que o usuário tenha interesse e vê-las em uma tela específica.
 
 ---
 
