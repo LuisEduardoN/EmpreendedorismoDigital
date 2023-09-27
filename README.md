@@ -9,6 +9,10 @@ Considerando esse problema, uma rede social, que possibilite a criação de comu
 
 A ideia é que diante de um problema ambiental no bairro, os moradores acessem o aplicativo e procurem uma comunidade do bairro em questão, caso ainda não exista eles mesmos criem e realizem uma postagem relatando o ocorrido. Onde em cada postagem seria possível reagir de forma positiva ou comentar descrevendo uma opnião.
 
+O MVP de baixa fidelidade foi feito no site [Miro](https://miro.com/). As cores, ícones e fontes observáveis nas telas não condizem com o estilo final do aplicativo, o foco principal são nos componentes que serão desenvolvidos posteriormente.
+
+Para a obtenção de capital o plano original é após obter uma certa quantidade de usuários adicionar propagandas no aplicativo.
+
 ---
 
 ![Tela Inicial](/Telas/Inicial.png)
